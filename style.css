@@ -1,0 +1,33 @@
+.pgnav {
+  color: black;
+  padding: 0;
+  
+}
+
+
+
+.center {
+  text-align: center;
+  }
+
+.rotate {
+  -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.helper {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+  }
+  
+
+  
